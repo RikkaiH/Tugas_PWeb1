@@ -1,0 +1,17 @@
+header{
+    background-color:#242424;
+
+text-align: center;
+padding: 1cm;
+}
+body{
+    background-color: #4b4b4b;
+}
+nav {
+    background-color: #333333;
+    padding: 0.3rem;
+}
+nav a {
+    color: white;
+    margin: 0 1
+}
